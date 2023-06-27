@@ -1,0 +1,17 @@
+google-cloud-aiplatform==1.26.0
+langchain==0.0.194
+shapely<2.0.0
+protobuf==3.20.3
+grpcio-tools==1.47.0
+google-api-python-client==1.8.0
+grpcio==1.47.0
+grpcio-status==1.47.0
+ipykernel
+h5py
+pypdf
+pandas
+numpy
+google-cloud-storage
+google-cloud-bigquery
+gcsfs
+pyarrow
